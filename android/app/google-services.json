@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "940773749665",
+    "project_id": "course-hoteliobwa",
+    "storage_bucket": "course-hoteliobwa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940773749665:android:88c5da2dbacc9c8246d1e0",
+        "android_client_info": {
+          "package_name": "com.example.course_hotelio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940773749665-uj413okba4p6qa3l6gv081390ffok3nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2t7nfL5R_qubrMYcSF1tIHgThOdytz3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940773749665-uj413okba4p6qa3l6gv081390ffok3nd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940773749665-084u9i95k71ei4iq56rl7o0u0te587oa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.courseHotelioBwa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
